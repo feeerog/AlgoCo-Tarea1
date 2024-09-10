@@ -1,0 +1,224 @@
+Archivos
+ms :matriz strassen cuadrada
+mn: matriz Normal cuadrada
+mt: matriz traspuesta cuadrada
+duplimn: potencia matriz normal cuadrada
+duplimt: potencia matriz traspuesta cuadrada
+duplims: potencia matriz strassen cuadrada
+msd: matriz strassen no cuadrada
+mnd:matriz normal no cuadrada
+mtd: matriz traspuseta no cuadrada
+
+
+
+
+
+Normal 
+
+Prueba para el tamano de la matriz: 5 x 5
+Tiempo para multiplicacion cubica tradicional: 1.2e-06 segundos
+Prueba para el tamano de la matriz: 25 x 25
+Tiempo para multiplicacion cubica tradicional: 0.0001103 segundos
+Prueba para el tamano de la matriz: 50 x 50
+Tiempo para multiplicacion cubica tradicional: 0.0008499 segundos
+Prueba para el tamano de la matriz: 64 x 64
+Tiempo para multiplicacion cubica tradicional: 0.0017832 segundos
+Prueba para el tamano de la matriz: 100 x 100
+Tiempo para multiplicacion cubica tradicional: 0.0069521 segundos
+Prueba para el tamano de la matriz: 200 x 200
+Tiempo para multiplicacion cubica tradicional: 0.0586367 segundos
+Prueba para el tamano de la matriz: 256 x 256
+Tiempo para multiplicacion cubica tradicional: 0.116045 segundos
+Prueba para el tamano de la matriz: 500 x 500
+Tiempo para multiplicacion cubica tradicional: 0.975242 segundos
+Prueba para el tamano de la matriz: 800 x 800
+Tiempo para multiplicacion cubica tradicional: 4.62353 segundos
+Prueba para el tamano de la matriz: 1000 x 1000
+Tiempo para multiplicacion cubica tradicional: 8.25058 segundos
+
+
+
+traspuesta 
+Prueba para el tamano de la matriz: 5 x 5
+Tiempo para multiplicacion cubica optimizada (con transposicion): 2.4e-06 segundos
+Prueba para el tamano de la matriz: 25 x 25
+Tiempo para multiplicacion cubica optimizada (con transposicion): 0.000227 segundos
+Prueba para el tamano de la matriz: 50 x 50
+Tiempo para multiplicacion cubica optimizada (con transposicion): 0.000891 segundos
+Prueba para el tamano de la matriz: 64 x 64
+Tiempo para multiplicacion cubica optimizada (con transposicion): 0.0018276 segundos
+Prueba para el tamano de la matriz: 100 x 100
+Tiempo para multiplicacion cubica optimizada (con transposicion): 0.0069248 segundos
+Prueba para el tamano de la matriz: 200 x 200
+Tiempo para multiplicacion cubica optimizada (con transposicion): 0.056149 segundos
+Prueba para el tamano de la matriz: 256 x 256
+Tiempo para multiplicacion cubica optimizada (con transposicion): 0.116701 segundos
+Prueba para el tamano de la matriz: 500 x 500
+Tiempo para multiplicacion cubica optimizada (con transposicion): 0.887027 segundos
+Prueba para el tamano de la matriz: 800 x 800
+Tiempo para multiplicacion cubica optimizada (con transposicion): 3.51016 segundos
+Prueba para el tamano de la matriz: 1000 x 1000
+Tiempo para multiplicacion cubica optimizada (con transposicion): 6.96647 segundos
+
+
+Strassen 
+Prueba para el tamano de la matriz: 5 x 5
+Tiempo para multiplicacion con algoritmo de Strassen: 0.0004183 segundos
+Prueba para el tamano de la matriz: 25 x 25
+Tiempo para multiplicacion con algoritmo de Strassen: 0.008603 segundos
+Prueba para el tamano de la matriz: 50 x 50
+Tiempo para multiplicacion con algoritmo de Strassen: 0.0610591 segundos
+Prueba para el tamano de la matriz: 64 x 64
+Tiempo para multiplicacion con algoritmo de Strassen: 0.593276 segundos
+Prueba para el tamano de la matriz: 100 x 100
+Tiempo para multiplicacion con algoritmo de Strassen: 0.473294 segundos
+Prueba para el tamano de la matriz: 200 x 200
+Tiempo para multiplicacion con algoritmo de Strassen: 3.23158 segundos
+Prueba para el tamano de la matriz: 256 x 256
+Tiempo para multiplicacion con algoritmo de Strassen: 31.0808 segundos
+Prueba para el tamano de la matriz: 500 x 500
+Tiempo para multiplicacion con algoritmo de Strassen: 24.8921 segundos
+Prueba para el tamano de la matriz: 800 x 800
+Tiempo para multiplicacion con algoritmo de Strassen: 155.526 segundos
+Prueba para el tamano de la matriz: 1000 x 1000
+Tiempo para multiplicacion con algoritmo de Strassen: 163.495 segundos
+
+
+
+
+------------------------------------------------------------------------------
+
+No cuadradas
+
+Normal archivo matrizd
+Prueba para matrices A: 2x3 y B: 3x4
+Tiempo para la multiplicacion de matrices A y B: 4e-07 segundos
+Prueba para matrices A: 22x32 y B: 32x43
+Tiempo para la multiplicacion de matrices A y B: 0.0002182 segundos
+Prueba para matrices A: 50x64 y B: 64x70
+Tiempo para la multiplicacion de matrices A y B: 0.0015782 segundos
+Prueba para matrices A: 30x80 y B: 80x54
+Tiempo para la multiplicacion de matrices A y B: 0.0009266 segundos
+Prueba para matrices A: 100x200 y B: 200x150
+Tiempo para la multiplicacion de matrices A y B: 0.021805 segundos
+Prueba para matrices A: 230x335 y B: 335x200
+Tiempo para la multiplicacion de matrices A y B: 0.108592 segundos
+Prueba para matrices A: 500x400 y B: 400x600
+Tiempo para la multiplicacion de matrices A y B: 0.960809 segundos
+Prueba para matrices A: 400x700 y B: 700x300
+Tiempo para la multiplicacion de matrices A y B: 0.642818 segundos
+Prueba para matrices A: 600x800 y B: 800x700
+Tiempo para la multiplicacion de matrices A y B: 2.69279 segundos
+Prueba para matrices A: 1000x500 y B: 500x1000
+Tiempo para la multiplicacion de matrices A y B: 4.27117 segundos
+
+traspuesta archivo mtd
+Prueba para matrices A: 2x3 y B: 3x4
+Tiempo para multiplicacion optimizada (con transposicion): 4e-07 segundos
+Prueba para matrices A: 22x32 y B: 32x43
+Tiempo para multiplicacion optimizada (con transposicion): 0.0002164 segundos
+Prueba para matrices A: 50x64 y B: 64x70
+Tiempo para multiplicacion optimizada (con transposicion): 0.0015646 segundos
+Prueba para matrices A: 30x80 y B: 80x54
+Tiempo para multiplicacion optimizada (con transposicion): 0.0009017 segundos
+Prueba para matrices A: 100x200 y B: 200x150
+Tiempo para multiplicacion optimizada (con transposicion): 0.0204862 segundos
+Prueba para matrices A: 230x335 y B: 335x200
+Tiempo para multiplicacion optimizada (con transposicion): 0.110055 segundos
+Prueba para matrices A: 500x400 y B: 400x600
+Tiempo para multiplicacion optimizada (con transposicion): 0.829871 segundos
+Prueba para matrices A: 400x700 y B: 700x300
+Tiempo para multiplicacion optimizada (con transposicion): 0.60213 segundos
+Prueba para matrices A: 600x800 y B: 800x700
+Tiempo para multiplicacion optimizada (con transposicion): 2.34148 segundos
+Prueba para matrices A: 1000x500 y B: 500x1000
+Tiempo para multiplicacion optimizada (con transposicion): 3.64584 segundos
+
+
+strassen 
+Prueba para el tamano de la matriz: 2x3 - 3x4
+Tiempo para multiplicacion con algoritmo de Strassen: 0.000336 segundos
+Prueba para el tamano de la matriz: 22x32 - 32x43
+Tiempo para multiplicacion con algoritmo de Strassen: 0.559337 segundos
+Prueba para el tamano de la matriz: 50x64 - 64x70
+Tiempo para multiplicacion con algoritmo de Strassen: 3.97067 segundos
+Prueba para el tamano de la matriz: 30x80 - 80x54
+Tiempo para multiplicacion con algoritmo de Strassen: 3.94535 segundos
+Prueba para el tamano de la matriz: 100x200 - 200x150
+Tiempo para multiplicacion con algoritmo de Strassen: 28.0141 segundos
+Prueba para el tamano de la matriz: 230x335 - 335x200
+Tiempo para multiplicacion con algoritmo de Strassen: 193.335 segundos
+Prueba para el tamano de la matriz: 500x400 - 400x600
+Tiempo para multiplicacion con algoritmo de Strassen: 1803.92 segundos
+Prueba para el tamano de la matriz: 400x700 - 700x300
+Tiempo para multiplicacion con algoritmo de Strassen: 1907.16 segundos
+
+---------------------------------------------------------------------------------
+
+potencias de 2
+
+
+
+traspuesta
+Prueba para el tamano de la matriz: 2 x 2
+Tiempo para multiplicacion cubica optimizada (con transposicion): 5e-07 segundos
+Prueba para el tamano de la matriz: 4 x 4
+Tiempo para multiplicacion cubica optimizada (con transposicion): 1.7e-06 segundos
+Prueba para el tamano de la matriz: 8 x 8
+Tiempo para multiplicacion cubica optimizada (con transposicion): 8.2e-06 segundos
+Prueba para el tamano de la matriz: 16 x 16
+Tiempo para multiplicacion cubica optimizada (con transposicion): 6.1e-05 segundos
+Prueba para el tamano de la matriz: 32 x 32
+Tiempo para multiplicacion cubica optimizada (con transposicion): 0.0004634 segundos
+Prueba para el tamano de la matriz: 64 x 64
+Tiempo para multiplicacion cubica optimizada (con transposicion): 0.0033756 segundos
+Prueba para el tamano de la matriz: 128 x 128
+Tiempo para multiplicacion cubica optimizada (con transposicion): 0.0779777 segundos
+Prueba para el tamano de la matriz: 256 x 256
+Tiempo para multiplicacion cubica optimizada (con transposicion): 0.206396 segundos
+Prueba para el tamano de la matriz: 512 x 512
+Tiempo para multiplicacion cubica optimizada (con transposicion): 1.72157 segundos
+
+Normal
+Prueba para el tamano de la matriz: 2 x 2
+Tiempo para multiplicacion cubica tradicional: 6e-07 segundos
+Prueba para el tamano de la matriz: 4 x 4
+Tiempo para multiplicacion cubica tradicional: 1.2e-06 segundos
+Prueba para el tamano de la matriz: 8 x 8
+Tiempo para multiplicacion cubica tradicional: 7.8e-06 segundos
+Prueba para el tamano de la matriz: 16 x 16
+Tiempo para multiplicacion cubica tradicional: 5.29e-05 segundos
+Prueba para el tamano de la matriz: 32 x 32
+Tiempo para multiplicacion cubica tradicional: 0.0004008 segundos
+Prueba para el tamano de la matriz: 64 x 64
+Tiempo para multiplicacion cubica tradicional: 0.0033073 segundos
+Prueba para el tamano de la matriz: 128 x 128
+Tiempo para multiplicacion cubica tradicional: 0.075869 segundos
+Prueba para el tamano de la matriz: 256 x 256
+Tiempo para multiplicacion cubica tradicional: 0.213368 segundos
+Prueba para el tamano de la matriz: 512 x 512
+Tiempo para multiplicacion cubica tradicional: 1.97174 segundos
+
+
+strassen
+Prueba para el tamano de la matriz: 2 x 2
+Tiempo para multiplicacion  con algoritmo de Strassen: 8.56e-05 segundos
+Prueba para el tamano de la matriz: 4 x 4
+Tiempo para multiplicacion  con algoritmo de Strassen: 0.0003503 segundos
+Prueba para el tamano de la matriz: 8 x 8
+Tiempo para multiplicacion  con algoritmo de Strassen: 0.0017015 segundos
+Prueba para el tamano de la matriz: 16 x 16
+Tiempo para multiplicacion  con algoritmo de Strassen: 0.0113289 segundos
+Prueba para el tamano de la matriz: 32 x 32
+Tiempo para multiplicacion  con algoritmo de Strassen: 0.0780327 segundos
+Prueba para el tamano de la matriz: 64 x 64
+Tiempo para multiplicacion  con algoritmo de Strassen: 0.490321 segundos
+Prueba para el tamano de la matriz: 128 x 128
+Tiempo para multiplicacion  con algoritmo de Strassen: 3.49519 segundos
+Prueba para el tamano de la matriz: 256 x 256
+Tiempo para multiplicacion con algoritmo de Strassen: 24.7724 segundos
+Prueba para el tamano de la matriz: 512 x 512
+Tiempo para multiplicacion  con algoritmo de Strassen: 186.117 segundos
+
+
+

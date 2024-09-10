@@ -1,0 +1,202 @@
+100 datos
+
+Quick Sort para 100 elementos del archivo numAleatorios.txt toma 5.2e-06 segundos.
+Quick Sort para 100 elementos del archivo numAlternantes.txt toma 2.17e-05 segundos.
+Quick Sort para 100 elementos del archivo numAscendentes.txt toma 2.97e-05 segundos.
+Quick Sort para 100 elementos del archivo numDescendentes.txt toma 1.85e-05 segundos.
+Quick Sort para 100 elementos del archivo numerosp.txt toma 5.2e-06 segundos.
+Quick Sort para 100 elementos del archivo numDuplicados.txt toma 4.4e-06 segundos.
+
+Insertion Sort para 100 elementos del archivo numAleatorios.txt toma 5.6e-06 segundos.
+Insertion Sort para 100 elementos del archivo numAlternantes.txt toma 5.8e-06 segundos.
+Insertion Sort para 100 elementos del archivo numAscendentes.txt toma 1e-06 segundos.
+Insertion Sort para 100 elementos del archivo numDescendentes.txt toma 9.4e-06 segundos.
+Insertion Sort para 100 elementos del archivo numerosp.txt toma 2.2e-06 segundos.
+Insertion Sort para 100 elementos del archivo numDuplicados.txt toma 5.4e-06 segundos.
+
+Merge Sort para 100 elementos del archivo numAleatorios.txt toma 3.77e-05 segundos.
+Merge Sort para 100 elementos del archivo numAlternantes.txt toma 2.51e-05 segundos.
+Merge Sort para 100 elementos del archivo numAscendentes.txt toma 2.71e-05 segundos.
+Merge Sort para 100 elementos del archivo numDescendentes.txt toma 2.52e-05 segundos.
+Merge Sort para 100 elementos del archivo numerosp.txt toma 1.63e-05 segundos.
+Merge Sort para 100 elementos del archivo numDuplicados.txt toma 3.71e-05 segundos.
+
+std::sort para 100 elementos del archivo numAleatorios.txt toma 1.02e-05 segundos.
+std::sort para 100 elementos del archivo numAlternantes.txt toma 9e-06 segundos.
+std::sort para 100 elementos del archivo numAscendentes.txt toma 6.1e-06 segundos.
+std::sort para 100 elementos del archivo numDescendentes.txt toma 6.8e-06 segundos.
+std::sort para 100 elementos del archivo numerosp.txt toma 7.1e-06 segundos.
+std::sort para 100 elementos del archivo numDuplicados.txt toma 9.8e-06 segundos.
+
+
+
+----------------------------------------------------------------------------------
+
+
+5000 datos
+
+std::sort para 5000 elementos del archivo numAleatorios.txt toma 0.0007797 segundos.
+std::sort para 5000 elementos del archivo numAlternantes.txt toma 0.0007632 segundos.
+std::sort para 5000 elementos del archivo numAscendentes.txt toma 0.000451 segundos.
+std::sort para 5000 elementos del archivo numDescendentes.txt toma 0.000365 segundos.
+std::sort para 5000 elementos del archivo numerosp.txt toma 0.0006799 segundos.
+std::sort para 5000 elementos del archivo numDuplicados.txt toma 0.0008007 segundos.
+
+Merge Sort para 5000 elementos del archivo numAleatorios.txt toma 0.0056142 segundos.
+Merge Sort para 5000 elementos del archivo numAlternantes.txt toma 0.0052464 segundos.
+Merge Sort para 5000 elementos del archivo numAscendentes.txt toma 0.0054215 segundos.
+Merge Sort para 5000 elementos del archivo numDescendentes.txt toma 0.0056981 segundos.
+Merge Sort para 5000 elementos del archivo numerosp.txt toma 0.0052935 segundos.
+Merge Sort para 5000 elementos del archivo numDuplicados.txt toma 0.0055032 segundos.
+
+Insertion Sort para 5000 elementos del archivo numAleatorios.txt toma 0.0108641 segundos.
+Insertion Sort para 5000 elementos del archivo numAlternantes.txt toma 0.0113325 segundos.
+Insertion Sort para 5000 elementos del archivo numAscendentes.txt toma 1.37e-05 segundos.
+Insertion Sort para 5000 elementos del archivo numDescendentes.txt toma 0.0225239 segundos.
+Insertion Sort para 5000 elementos del archivo numerosp.txt toma 0.0003901 segundos.
+Insertion Sort para 5000 elementos del archivo numDuplicados.txt toma 0.0109353 segundos.
+
+Quick Sort para 5000 elementos del archivo numAleatorios.txt toma 0.0004658 segundos.
+Quick Sort para 5000 elementos del archivo numAlternantes.txt toma 0.0209707 segundos.
+Quick Sort para 5000 elementos del archivo numAscendentes.txt toma 0.0723224 segundos.
+Quick Sort para 5000 elementos del archivo numDescendentes.txt toma 0.0440222 segundos.
+Quick Sort para 5000 elementos del archivo numerosp.txt toma 0.0014627 segundos.
+Quick Sort para 5000 elementos del archivo numDuplicados.txt toma 0.0004518 segundos.
+
+------------------------------------------------------------------------------------------
+10000 datos
+
+Quick Sort para 10000 elementos del archivo numAleatorios.txt toma 0.0012349 segundos.
+Quick Sort para 10000 elementos del archivo numAlternantes.txt toma 0.0840626 segundos.
+Quick Sort para 10000 elementos del archivo numAscendentes.txt toma 0.286276 segundos.
+Quick Sort para 10000 elementos del archivo numDescendentes.txt toma 0.172094 segundos.
+Quick Sort para 10000 elementos del archivo numerosp.txt toma 0.002225 segundos.
+Quick Sort para 10000 elementos del archivo numDuplicados.txt toma 0.0009189 segundos.
+
+Merge Sort para 10000 elementos del archivo numAleatorios.txt toma 0.0115152 segundos.
+Merge Sort para 10000 elementos del archivo numAlternantes.txt toma 0.0107867 segundos.
+Merge Sort para 10000 elementos del archivo numAscendentes.txt toma 0.0108038 segundos.
+Merge Sort para 10000 elementos del archivo numDescendentes.txt toma 0.0113131 segundos.
+Merge Sort para 10000 elementos del archivo numerosp.txt toma 0.0109513 segundos.
+Merge Sort para 10000 elementos del archivo numDuplicados.txt toma 0.0128232 segundos.
+
+
+Insertion Sort para 10000 elementos del archivo numAleatorios.txt toma 0.0478013 segundos.
+Insertion Sort para 10000 elementos del archivo numAlternantes.txt toma 0.0452712 segundos.
+Insertion Sort para 10000 elementos del archivo numAscendentes.txt toma 2.67e-05 segundos.
+Insertion Sort para 10000 elementos del archivo numDescendentes.txt toma 0.088261 segundos.
+Insertion Sort para 10000 elementos del archivo numerosp.txt toma 0.0006241 segundos.
+Insertion Sort para 10000 elementos del archivo numDuplicados.txt toma 0.0435264 segundos.
+
+
+std::sort para 10000 elementos del archivo numAleatorios.txt toma 0.0016596 segundos.
+std::sort para 10000 elementos del archivo numAlternantes.txt toma 0.0012791 segundos.
+std::sort para 10000 elementos del archivo numAscendentes.txt toma 0.0009374 segundos.
+std::sort para 10000 elementos del archivo numDescendentes.txt toma 0.0007583 segundos.
+std::sort para 10000 elementos del archivo numerosp.txt toma 0.0012584 segundos.
+std::sort para 10000 elementos del archivo numDuplicados.txt toma 0.0016244 segundos
+
+
+------------------------------------------------------------------------------------
+
+20000 datos
+
+Merge Sort para 20000 elementos del archivo numAleatorios.txt toma 0.0232082 segundos.
+Merge Sort para 20000 elementos del archivo numAlternantes.txt toma 0.0220085 segundos.
+Merge Sort para 20000 elementos del archivo numAscendentes.txt toma 0.0226983 segundos.
+Merge Sort para 20000 elementos del archivo numDescendentes.txt toma 0.0231248 segundos.
+Merge Sort para 20000 elementos del archivo numerosp.txt toma 0.0241939 segundos.
+Merge Sort para 20000 elementos del archivo numDuplicados.txt toma 0.0239849 segundos.
+
+Quick Sort para 20000 elementos del archivo numAleatorios.txt toma 0.0020538 segundos.
+Quick Sort para 20000 elementos del archivo numAlternantes.txt toma 0.333926 segundos.
+Quick Sort para 20000 elementos del archivo numAscendentes.txt toma 1.14513 segundos.
+Quick Sort para 20000 elementos del archivo numDescendentes.txt toma 0.684091 segundos.
+Quick Sort para 20000 elementos del archivo numerosp.txt toma 0.0076082 segundos.
+Quick Sort para 20000 elementos del archivo numDuplicados.txt toma 0.002079 segundos.
+
+Insertion Sort para 20000 elementos del archivo numAleatorios.txt toma 0.175615 segundos.
+Insertion Sort para 20000 elementos del archivo numAlternantes.txt toma 0.178742 segundos.
+Insertion Sort para 20000 elementos del archivo numAscendentes.txt toma 5.26e-05 segundos.
+Insertion Sort para 20000 elementos del archivo numDescendentes.txt toma 0.366274 segundos.
+Insertion Sort para 20000 elementos del archivo numerosp.txt toma 0.0004329 segundos.
+Insertion Sort para 20000 elementos del archivo numDuplicados.txt toma 0.180896 segundos.
+
+std::sort para 20000 elementos del archivo numAleatorios.txt toma 0.0036281 segundos.
+std::sort para 20000 elementos del archivo numAlternantes.txt toma 0.0034977 segundos.
+std::sort para 20000 elementos del archivo numAscendentes.txt toma 0.0020602 segundos.
+std::sort para 20000 elementos del archivo numDescendentes.txt toma 0.001634 segundos.
+std::sort para 20000 elementos del archivo numerosp.txt toma 0.0027388 segundos.
+std::sort para 20000 elementos del archivo numDuplicados.txt toma 0.0035558 segundos.
+
+------------------------------------------------------------------------------------------------
+
+
+30000 datos
+
+std::sort para 30000 elementos del archivo numAleatorios.txt toma 0.0054491 segundos.
+std::sort para 30000 elementos del archivo numAlternantes.txt toma 0.0042969 segundos.
+std::sort para 30000 elementos del archivo numAscendentes.txt toma 0.0029169 segundos.
+std::sort para 30000 elementos del archivo numDescendentes.txt toma 0.0023005 segundos.
+std::sort para 30000 elementos del archivo numerosp.txt toma 0.0052408 segundos.
+std::sort para 30000 elementos del archivo numDuplicados.txt toma 0.0055178 segundos.
+
+
+Insertion Sort para 30000 elementos del archivo numAleatorios.txt toma 0.394064 segundos.
+Insertion Sort para 30000 elementos del archivo numAlternantes.txt toma 0.406282 segundos.
+Insertion Sort para 30000 elementos del archivo numAscendentes.txt toma 7.89e-05 segundos.
+Insertion Sort para 30000 elementos del archivo numDescendentes.txt toma 0.816116 segundos.
+Insertion Sort para 30000 elementos del archivo numerosp.txt toma 0.0056375 segundos.
+Insertion Sort para 30000 elementos del archivo numDuplicados.txt toma 0.412582 segundos.
+
+Merge Sort para 30000 elementos del archivo numAleatorios.txt toma 0.0430103 segundos.
+Merge Sort para 30000 elementos del archivo numAlternantes.txt toma 0.0411744 segundos.
+Merge Sort para 30000 elementos del archivo numAscendentes.txt toma 0.0505437 segundos.
+Merge Sort para 30000 elementos del archivo numDescendentes.txt toma 0.0506016 segundos.
+Merge Sort para 30000 elementos del archivo numerosp.txt toma 0.0507114 segundos.
+Merge Sort para 30000 elementos del archivo numDuplicados.txt toma 0.049772 segundos.
+
+Quick Sort para 30000 elementos del archivo numAleatorios.txt toma 0.0035997 segundos.
+Quick Sort para 30000 elementos del archivo numAlternantes.txt toma 0.743951 segundos.
+Quick Sort para 30000 elementos del archivo numAscendentes.txt toma 2.58162 segundos.
+Quick Sort para 30000 elementos del archivo numDescendentes.txt toma 1.53279 segundos.
+Quick Sort para 30000 elementos del archivo numerosp.txt toma 0.0118022 segundos.
+Quick Sort para 30000 elementos del archivo numDuplicados.txt toma 0.0031653 segundos.
+
+
+-----------------------------------------------------------------------------------------
+
+40000 datos
+
+Merge Sort para 40000 elementos del archivo numAleatorios.txt toma 0.0619285 segundos.
+Merge Sort para 40000 elementos del archivo numAlternantes.txt toma 0.0581269 segundos.
+Merge Sort para 40000 elementos del archivo numAscendentes.txt toma 0.0560457 segundos.
+Merge Sort para 40000 elementos del archivo numDescendentes.txt toma 0.0553084 segundos.
+Merge Sort para 40000 elementos del archivo numerosp.txt toma 0.0548299 segundos.
+Merge Sort para 40000 elementos del archivo numDuplicados.txt toma 0.0603718 segundos.
+
+
+Quick Sort para 40000 elementos del archivo numAleatorios.txt toma 0.0043455 segundos.
+Quick Sort para 40000 elementos del archivo numAlternantes.txt toma 1.32853 segundos.
+Quick Sort para 40000 elementos del archivo numerosp.txt toma 0.0191806 segundos.
+Quick Sort para 40000 elementos del archivo numDuplicados.txt toma 0.0045865 segundos.
+no responde para datos de 40000 ascendente y descendente
+
+Insertion Sort para 40000 elementos del archivo numAleatorios.txt toma 0.708659 segundos.
+Insertion Sort para 40000 elementos del archivo numAlternantes.txt toma 0.730526 segundos.
+Insertion Sort para 40000 elementos del archivo numAscendentes.txt toma 0.0001056 segundos.
+Insertion Sort para 40000 elementos del archivo numDescendentes.txt toma 1.45026 segundos.
+Insertion Sort para 40000 elementos del archivo numerosp.txt toma 0.0092813 segundos.
+Insertion Sort para 40000 elementos del archivo numDuplicados.txt toma 0.714708 segundos.
+
+std::sort para 40000 elementos del archivo numAleatorios.txt toma 0.0074892 segundos.
+std::sort para 40000 elementos del archivo numAlternantes.txt toma 0.007397 segundos.
+std::sort para 40000 elementos del archivo numAscendentes.txt toma 0.0042808 segundos.
+std::sort para 40000 elementos del archivo numDescendentes.txt toma 0.0033708 segundos.
+std::sort para 40000 elementos del archivo numerosp.txt toma 0.0084074 segundos.
+std::sort para 40000 elementos del archivo numDuplicados.txt toma 0.0076231 segundos.
+
+---------------------------------------------------------------------------------------
+
+
+
